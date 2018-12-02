@@ -1,0 +1,15 @@
+C:\Users\cryst\RiderProjects\Solution1\WpfCombobox\bin\Debug\WpfCombobox.exe.config
+C:\Users\cryst\RiderProjects\Solution1\WpfCombobox\bin\Debug\WpfCombobox.exe
+C:\Users\cryst\RiderProjects\Solution1\WpfCombobox\bin\Debug\WpfCombobox.pdb
+C:\Users\cryst\RiderProjects\Solution1\WpfCombobox\obj\Debug\MainWindow.g.cs
+C:\Users\cryst\RiderProjects\Solution1\WpfCombobox\obj\Debug\App.g.cs
+C:\Users\cryst\RiderProjects\Solution1\WpfCombobox\obj\Debug\WpfCombobox_MarkupCompile.cache
+C:\Users\cryst\RiderProjects\Solution1\WpfCombobox\obj\Debug\WpfCombobox_MarkupCompile.lref
+C:\Users\cryst\RiderProjects\Solution1\WpfCombobox\obj\Debug\MainWindow.baml
+C:\Users\cryst\RiderProjects\Solution1\WpfCombobox\obj\Debug\WpfCombobox.g.resources
+C:\Users\cryst\RiderProjects\Solution1\WpfCombobox\obj\Debug\WpfCombobox.Properties.Resources.resources
+C:\Users\cryst\RiderProjects\Solution1\WpfCombobox\obj\Debug\WpfCombobox.csproj.GenerateResource.Cache
+C:\Users\cryst\RiderProjects\Solution1\WpfCombobox\obj\Debug\WpfCombobox.csproj.CoreCompileInputs.cache
+C:\Users\cryst\RiderProjects\Solution1\WpfCombobox\obj\Debug\WpfCombobox.exe
+C:\Users\cryst\RiderProjects\Solution1\WpfCombobox\obj\Debug\WpfCombobox.pdb
+C:\Users\cryst\RiderProjects\Solution1\WpfCombobox\obj\Debug\WpfCombobox.csprojResolveAssemblyReference.cache
